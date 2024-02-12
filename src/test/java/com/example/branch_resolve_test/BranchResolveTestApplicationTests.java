@@ -12,5 +12,8 @@ class BranchResolveTestApplicationTests {
     @Test
     void contextLoads2() {
     }
+    @Test
+    void contextLoads3() {
+    }
 
 }

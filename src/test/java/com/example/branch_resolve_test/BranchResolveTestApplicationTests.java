@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BranchResolveTestApplicationTests {
 
     @Test
-    void contextLoads() {
+    void gitbranch() {
     }
 
 }

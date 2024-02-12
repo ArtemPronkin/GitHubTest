@@ -9,5 +9,8 @@ class BranchResolveTestApplicationTests {
     @Test
     void gitbranch() {
     }
+    @Test
+    void contextLoads2() {
+    }
 
 }

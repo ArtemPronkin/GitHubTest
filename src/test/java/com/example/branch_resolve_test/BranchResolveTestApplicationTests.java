@@ -14,7 +14,7 @@ class BranchResolveTestApplicationTests {
     }
     @Test
     void contextLoads3() {
-        asdfasd
+       fix
     }
 
 }

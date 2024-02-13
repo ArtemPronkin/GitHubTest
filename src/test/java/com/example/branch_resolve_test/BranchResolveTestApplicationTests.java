@@ -7,14 +7,14 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BranchResolveTestApplicationTests {
 
     @Test
-    void contextLoads() {
+    void contexfasdfasdfasdftLoads() {
+    }dfasd
+    @Test
+    void contextLoadasdfasdfass2() {
     }
     @Test
-    void contextLoads2() {
-    }
-    @Test
-    void contextLoads3() {
-        asdfasdtsssadf
+    void contextLoads3asdfasdfasdf() {
+        asdfasdtsssadfasdfasdf
     }
 
 }

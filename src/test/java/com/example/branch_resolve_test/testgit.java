@@ -4,4 +4,5 @@ public class testgit {
     Integer fix;
     Integer fix1;
     Integer fix2;
+    String fix3;
 }
